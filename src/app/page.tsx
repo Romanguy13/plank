@@ -16,7 +16,7 @@ export default function Home() {
           width={500}
           height={500}
         />
-        <audio controls className="mt-4 mb-4 w-full max-w-[500px]">
+        <audio controls className="mt-4 w-full max-w-[500px]">
           <source src="/insider-information.mp3" type="audio/mpeg" />
           Your browser does not support the audio element.
         </audio>
